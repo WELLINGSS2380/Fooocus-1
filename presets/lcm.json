@@ -44,7 +44,7 @@
     "default_aspect_ratio": "1152*896",
     "default_overwrite_step": -1,
     "checkpoint_downloads": {
-        "epiCRealism XL.safetensors": "https://civitai.com/api/download/models/1522905?type=Model&format=SafeTensor&size=pruned&fp=fp16"
+        "epiCRealism XL.safetensors": "https://huggingface.co/eramth/realism-sdxl/resolve/main/text_encoder_2/model.safetensors?download=true"
     },
     "embeddings_downloads": {},
     "lora_downloads": {},
